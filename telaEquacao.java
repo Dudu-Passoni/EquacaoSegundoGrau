@@ -306,5 +306,4 @@ public class telaEquacao extends javax.swing.JFrame {
     private javax.swing.JSpinner txtA;
     private javax.swing.JSpinner txtB;
     private javax.swing.JSpinner txtC;
-    // End of variables declaration//GEN-END:variables
 }
