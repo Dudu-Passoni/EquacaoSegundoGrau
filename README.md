@@ -1,2 +1,1 @@
-Calculadora de equação de segundo grau, desenvolvida em JAVA, utilizando a biblioteca SWING, desenvolvida apenas para prática (Protótipo). 
-
+A calculator for quadratic equation made in Java using Swing for GUI.
